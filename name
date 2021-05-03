@@ -1,0 +1,12 @@
+{
+"diseases":[
+{
+  "disease": "Dentist",
+  "doctor":["Bhaiyaa", "PV", "Preethi"]
+},
+{
+  "disease": "ENT",
+  "doctor":["Karthi", "Moni", "Iyyappo", "Bala"]
+ }
+ ]
+ }
